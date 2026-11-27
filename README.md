@@ -6,6 +6,28 @@ A full-stack e-commerce web application developed using the **MERN Stack** (Mong
 
 This project is an e-commerce application designed to provide an online shopping experience. It uses React for the frontend, Node.js and Express.js for backend development, and MongoDB for database management.
 
+
+## 📸 Project Screenshots
+
+### Screenshot 1
+![Screenshot 1](Screenshot%202025-09-21%20200758.png)
+
+### Screenshot 2
+![Screenshot 2](Screenshot%202025-09-21%20200927.png)
+
+### Screenshot 3
+![Screenshot 3](Screenshot%202025-09-21%20201801.png)
+
+### Screenshot 4
+![Screenshot 4](Screenshot%202025-09-21%20201905.png)
+
+### Screenshot 5
+![Screenshot 5](Screenshot%202025-09-21%20201944.png)
+
+### Screenshot 6
+![Screenshot 6](Screenshot%202025-09-21%20202015.png)
+
+
 ## 💻 Technologies Used
 
 - **Frontend:** React.js, Vite, Chakra UI
